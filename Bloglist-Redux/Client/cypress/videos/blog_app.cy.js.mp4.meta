@@ -1,0 +1,41 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=4370
+END=5376
+title=Blog app Login form is shown
+[CHAPTER]
+TIMEBASE=1/1000
+START=4389
+END=6384
+title=Blog app Login succeeds with correct credentials
+[CHAPTER]
+TIMEBASE=1/1000
+START=7126
+END=8381
+title=Blog app Login fails with wrong credentials
+[CHAPTER]
+TIMEBASE=1/1000
+START=6632
+END=9640
+title=Blog app When logged in A blog can be created
+[CHAPTER]
+TIMEBASE=1/1000
+START=8816
+END=12654
+title=Blog app When blog is already created A blog has 2 likes after like button is pressed twice 
+[CHAPTER]
+TIMEBASE=1/1000
+START=13488
+END=16497
+title=Blog app When blog is already created A blog can be removed by the user who created it 
+[CHAPTER]
+TIMEBASE=1/1000
+START=15963
+END=19512
+title=Blog app When blog is already created A blog can not be removed by the user who did not create it 
+[CHAPTER]
+TIMEBASE=1/1000
+START=17563
+END=23066
+title=Blog app sorted according to likes Sorted according to likes
